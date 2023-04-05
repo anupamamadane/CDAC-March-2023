@@ -1,0 +1,3 @@
+class SwiString{
+	
+	Sring day 
